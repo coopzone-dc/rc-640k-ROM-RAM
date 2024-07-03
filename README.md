@@ -1,6 +1,6 @@
 This project was based on this original work: https://github.com/PickledDog/rc-640k.  Many thanks to the author for all the hard work.
 
-The original electronics design remain the same, this version has a new pcb layout. The main difference being it's now RCBUS instead of RCBUS.
+The original electronics design remain the same, this version has a new pcb layout. The main difference being it's now RCBUS instead of RC2014.
 
 The original used KiCad, this version was created using EasyEDA and is pubished here:
 
